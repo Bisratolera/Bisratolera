@@ -2,9 +2,11 @@
 <h1 align="center">hello world, my name is leul</h1>
 <p>👀 I’m interested in python programming 🌱 I’m currently learning cisco networking
 💞️ I’m looking to collaborate on kotlin and flutter(dart) projects
-📫 How to reach me leultolera@gmail.com</p>
-<img align="right"  width="400"
-    src="">
+📫 How to reach me<br>
+ <a href="https://www.linkedin.com/in/leul-dereje-0a0862224/" text-decoration="none" align-items"center">linkedin</a>
+</p>
+<img align="right"  width="220" border="35px linear aqua"
+    src="./pro.png">
 
 
 
