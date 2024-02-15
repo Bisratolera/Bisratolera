@@ -8,7 +8,7 @@
 <img align="right"  width="220" border="35px linear aqua"
     src="./pro.png">
 
-
+![my GitHub stats](https://github-readme-stats.vercel.app/api?username=bisratolera&show_icons=true&theme=radical)
 
 <!---
 Bisratolera/Bisratolera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
