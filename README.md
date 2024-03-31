@@ -19,6 +19,7 @@
 - 📫 How to reach me **leultolera@gmail.com**
 
 - ⚡ Fun fact **i think i'm to boring to be a developer**
+- ![](https://komarev.com/ghpvc/?username=bisratolera)
 
 <h3 align="left">Connect with me:</h3>
 
