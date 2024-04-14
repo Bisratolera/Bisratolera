@@ -1,10 +1,14 @@
 <h1 align="center">Hi 👋, I'm leul dereje</h1>
 <h3 align="center">A passionate fullstack developer from Ethiopia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bisratolera&label=Profile%20views&color=0e75b6&style=flat" alt="bisratolera" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bisratolera alt="bisratolera" /></a> </p>
-<img align="right"   width="220" border="35px linear aqua" border-radius="100%" src="./pro.png">
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=bisratolera&label=Profile%20views&color=0e75b6&style=flat" alt="bisratolera" />
+</p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bisratolera alt="bisratolera" />
+  </a>
+</p>
+<img align="right"   width="220" border="3px" border-radius="100px" src="./pro.png">
 - 🔭 I’m currently working on **UI/UX design on elites**
 
 - 🌱 I’m currently learning **python, MERN stack, go**
