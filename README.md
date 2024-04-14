@@ -3,9 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bisratolera&label=Profile%20views&color=0e75b6&style=flat" alt="bisratolera" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bisratolera" alt="bisratolera" /></a> </p>
-<img align="right" border-radius="100%"  width="220" border="35px linear aqua"
-    src="./pro.png">
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bisratolera alt="bisratolera" /></a> </p>
+<img align="right"   width="220" border="35px linear aqua" border-radius="100%" src="./pro.png">
 - 🔭 I’m currently working on **UI/UX design on elites**
 
 - 🌱 I’m currently learning **python, MERN stack, go**
